@@ -1,0 +1,22 @@
+.body {
+    position: relative;
+}
+
+.footer {
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  right:0;
+  background-color: #c2e9d1;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.logochaires {
+    width: 10%
+}
+
+.courriel {
+    color: aliceblue;
+}
