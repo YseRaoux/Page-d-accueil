@@ -1,0 +1,30 @@
+ul {
+  list-style-type:none;
+  margin: 0;
+  padding-left: Opx;
+  padding: inherit;
+  background-color: #c2ead2;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: Comfortaa;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 17px;
+  background-color: #c2ead2;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #508e89;
+}
+
+.active {
+  background-color: #508e89;
+}
